@@ -49,6 +49,7 @@
 
 .middle:nth-child(1){
   margin-right: 150px;
+
 }
 
 .clearfix::after{
@@ -91,37 +92,19 @@
     width: 200px;
   }
 
-  .box{
-    height: 300px;
-    width: 300px;
-  }
-
-
-  .area{
-    display: flex;
-    justify-content: center;
-  }
-
   .middle:nth-child(1){
     margin-right: 50px;
   }
 
-  .square{
-    width: 300px;
-    height: 300px;
+  .float-box{
     float: none;
+    
   }
 
   .inversion{
     flex-direction: row-reverse;
   }
 
-  .box-normal{
-    height: 300px;
-    width: 300px;
-    text-align: center;
-    line-height: 300px;
-  }
 
   .order-A{
     order: 2;
