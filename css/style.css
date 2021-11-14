@@ -93,7 +93,7 @@
 }
 
 .red-change{
-  display: inline;
+  display: block;
   background-color: #ff0000;
 }
 
@@ -153,7 +153,7 @@
   }
 
   .blue-change{
-    display: inline;
+    display: block;
     
   }
   
